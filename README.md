@@ -1,6 +1,6 @@
 # web_app
 
-A new Flutter project.
+ This is a basic Flutter Web App Ui, more features and updates coming soon.
 
 ## Getting Started
 
